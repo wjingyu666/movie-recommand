@@ -1,0 +1,497 @@
+﻿movieId,ml_title,ml_year,ml_genres,douban_url,douban_genres,douban_country,douban_rating,douban_votes
+1,Toy Story,1995,Animation|Children's|Comedy,https://movie.douban.com/subject/1291575/,喜剧 / 动画 / 家庭,美国,8.6,422721.0
+2,Jumanji,1995,Adventure|Children's|Fantasy,https://movie.douban.com/subject/1294990/,动作 / 奇幻 / 冒险,美国,8.2,144497.0
+6,Heat,1995,Action|Crime|Thriller,https://movie.douban.com/subject/1295686/,剧情 / 动作 / 惊悚 / 犯罪,美国,8.5,148280.0
+10,GoldenEye,1995,Action|Adventure|Thriller,https://movie.douban.com/subject/1292677/,动作 / 惊悚 / 冒险,英国 / 美国,7.6,51222.0
+11,"American President, The",1995,Comedy|Drama|Romance,https://movie.douban.com/subject/1293740/,剧情 / 喜剧 / 爱情,美国,6.8,2759.0
+16,Casino,1995,Drama|Thriller,https://movie.douban.com/subject/1299799/,剧情 / 传记 / 犯罪,美国 / 法国,8.3,56011.0
+17,Sense and Sensibility,1995,Drama|Romance,https://movie.douban.com/subject/1299193/,剧情 / 爱情,美国 / 英国,8.4,158407.0
+21,Get Shorty,1995,Action|Comedy|Drama,https://movie.douban.com/subject/1293335/,喜剧 / 惊悚 / 犯罪,美国,7.2,5328.0
+24,Powder,1995,Drama|Sci-Fi,https://movie.douban.com/subject/1300549/,剧情 / 奇幻,美国,8.1,11289.0
+25,Leaving Las Vegas,1995,Drama|Romance,https://movie.douban.com/subject/1293596/,剧情 / 爱情,美国,8.0,39346.0
+32,Twelve Monkeys,1995,Drama|Sci-Fi,https://movie.douban.com/subject/1298744/,科幻 / 悬疑 / 惊悚,美国,8.2,254574.0
+34,Babe,1995,Children's|Comedy|Drama,https://movie.douban.com/subject/1292765/,剧情 / 喜剧,澳大利亚 / 美国,8.2,18374.0
+36,Dead Man Walking,1995,Drama,https://movie.douban.com/subject/1292703/,剧情 / 犯罪,英国 / 美国,7.8,10223.0
+39,Clueless,1995,Comedy|Romance,https://movie.douban.com/subject/1295295/,喜剧 / 爱情,美国,7.7,49162.0
+47,Seven (Se7en),1995,Crime|Thriller,https://movie.douban.com/subject/1292223/,剧情 / 悬疑 / 惊悚 / 犯罪,美国,8.8,1049048.0
+50,"Usual Suspects, The",1995,Crime|Thriller,https://movie.douban.com/subject/1292214/,悬疑 / 惊悚 / 犯罪,德国 / 美国,8.6,286676.0
+70,From Dusk Till Dawn,1996,Action|Comedy|Crime|Horror|Thriller,https://movie.douban.com/subject/1301409/,动作 / 恐怖 / 犯罪,美国,7.5,72851.0
+95,Broken Arrow,1996,Action|Thriller,https://movie.douban.com/subject/1293317/,动作 / 惊悚 / 犯罪,美国,7.3,46994.0
+104,Happy Gilmore,1996,Comedy,https://movie.douban.com/subject/1292647/,喜剧 / 运动,美国,6.7,3054.0
+110,Braveheart,1995,Action|Drama|War,https://movie.douban.com/subject/1294639/,剧情 / 动作 / 传记 / 历史 / 战争,美国,8.9,601238.0
+111,Taxi Driver,1976,Drama|Thriller,https://movie.douban.com/subject/1292222/,剧情 / 犯罪,美国,8.6,249971.0
+141,"Birdcage, The",1996,Comedy,https://movie.douban.com/subject/1300331/,喜剧 / 同性,美国,7.9,2128.0
+150,Apollo 13,1995,Drama,https://movie.douban.com/subject/1293785/,剧情 / 历史 / 冒险,美国,8.1,39416.0
+153,Batman Forever,1995,Action|Adventure|Comedy|Crime,https://movie.douban.com/subject/1295638/,动作 / 冒险,美国 / 英国,6.7,34397.0
+161,Crimson Tide,1995,Drama|Thriller|War,https://movie.douban.com/subject/1295363/,剧情 / 动作 / 惊悚,美国,8.1,15581.0
+165,Die Hard: With a Vengeance,1995,Action|Thriller,https://movie.douban.com/subject/1299837/,动作 / 惊悚 / 冒险,美国,7.9,60302.0
+198,Strange Days,1995,Action|Crime|Sci-Fi,https://movie.douban.com/subject/1293932/,剧情 / 科幻 / 惊悚 / 犯罪,美国,7.2,4743.0
+208,Waterworld,1995,Action|Adventure,https://movie.douban.com/subject/1294037/,动作 / 科幻 / 惊悚 / 冒险,美国,7.6,93331.0
+223,Clerks,1994,Comedy,https://movie.douban.com/subject/1298320/,喜剧,美国,8.1,24012.0
+231,Dumb & Dumber,1994,Comedy,https://movie.douban.com/subject/1296454/,喜剧,美国,7.4,48770.0
+235,Ed Wood,1994,Comedy|Drama,https://movie.douban.com/subject/1293683/,剧情 / 喜剧 / 传记,美国,8.2,27698.0
+246,Hoop Dreams,1994,Documentary,https://movie.douban.com/subject/1297797/,剧情 / 纪录片 / 运动,美国,8.6,2013.0
+253,Interview with the Vampire,1994,Drama|Horror,https://movie.douban.com/subject/35700390/,剧情 / 恐怖 / 同性 / 奇幻,美国,8.5,12954.0
+260,Star Wars: Episode IV - A New Hope,1977,Action|Adventure|Fantasy|Sci-Fi,https://movie.douban.com/subject/1293838/,动作 / 科幻 / 冒险,美国,8.5,158375.0
+265,Like Water for Chocolate (Como agua para chocolate),1992,Drama|Romance,https://movie.douban.com/subject/1292831/,剧情 / 爱情,墨西哥,7.5,5786.0
+266,Legends of the Fall,1994,Drama|Romance|War|Western,https://movie.douban.com/subject/1295865/,剧情 / 爱情 / 战争 / 西部,美国,8.7,315637.0
+288,Natural Born Killers,1994,Action|Thriller,https://movie.douban.com/subject/1292229/,剧情 / 动作 / 犯罪,美国,7.9,123086.0
+292,Outbreak,1995,Action|Drama|Thriller,https://movie.douban.com/subject/1301419/,剧情 / 惊悚 / 灾难,美国,7.7,44922.0
+293,"Professional, The (a.k.a. Leon: The Professional)",1994,Crime|Drama|Romance|Thriller,https://movie.douban.com/subject/1295644/,剧情 / 动作 / 犯罪,法国 / 美国,9.4,2522210.0
+296,Pulp Fiction,1994,Crime|Drama,https://movie.douban.com/subject/1291832/,剧情 / 喜剧 / 犯罪,美国,8.9,945634.0
+300,Quiz Show,1994,Drama,https://movie.douban.com/subject/1292759/,剧情 / 历史,美国,8.0,10433.0
+316,Stargate,1994,Action|Adventure|Sci-Fi,https://movie.douban.com/subject/1302209/,动作 / 科幻 / 奇幻 / 冒险,法国 / 美国,7.2,20239.0
+317,"Santa Clause, The",1994,Children's|Comedy|Fantasy,https://movie.douban.com/subject/1857088/,喜剧 / 家庭 / 奇幻 / 冒险,美国,6.4,449.0
+318,"Shawshank Redemption, The",1994,Drama,https://movie.douban.com/subject/1292052/,剧情 / 犯罪,美国,9.7,3235984.0
+329,Star Trek: Generations,1994,Action|Adventure|Sci-Fi,https://movie.douban.com/subject/1293904/,动作 / 科幻 / 悬疑 / 惊悚,美国,7.2,7486.0
+337,What's Eating Gilbert Grape,1993,Drama,https://movie.douban.com/subject/1301617/,剧情 / 爱情 / 家庭,美国,8.6,150333.0
+339,While You Were Sleeping,1995,Comedy|Romance,https://movie.douban.com/subject/1295899/,喜剧 / 爱情,美国,7.8,25332.0
+344,Ace Ventura: Pet Detective,1994,Comedy,https://movie.douban.com/subject/1292829/,喜剧 / 动作 / 悬疑,美国,7.4,47345.0
+349,Clear and Present Danger,1994,Action|Adventure|Thriller,https://movie.douban.com/subject/1292822/,剧情 / 动作 / 惊悚,美国,7.1,6540.0
+353,"Crow, The",1994,Action|Romance|Thriller,https://movie.douban.com/subject/30199515/,动画 / 短片,美国,7.1,177.0
+356,Forrest Gump,1994,Comedy|Romance|War,https://movie.douban.com/subject/1292720/,剧情 / 爱情,美国,9.5,2397807.0
+357,Four Weddings and a Funeral,1994,Comedy|Romance,https://movie.douban.com/subject/1294950/,剧情 / 喜剧 / 爱情,英国,7.4,129035.0
+364,"Lion King, The",1994,Animation|Children's|Musical,https://movie.douban.com/subject/36887288/,纪录片 / 音乐,美国,8.1,268.0
+367,"Mask, The",1994,Comedy|Crime|Fantasy,https://movie.douban.com/subject/1871290/,喜剧 / 惊悚 / 恐怖,美国,6.1,1031.0
+368,Maverick,1994,Action|Comedy|Western,https://movie.douban.com/subject/1294962/,喜剧 / 西部 / 冒险,美国,7.5,4089.0
+377,Speed,1994,Action|Romance|Thriller,https://movie.douban.com/subject/1293167/,动作 / 惊悚 / 犯罪 / 冒险,美国,8.2,132590.0
+380,True Lies,1994,Action|Adventure|Comedy|Romance,https://movie.douban.com/subject/1292553/,喜剧 / 动作 / 惊悚,美国,8.3,171059.0
+434,Cliffhanger,1993,Action|Adventure|Crime,https://movie.douban.com/subject/1293952/,动作 / 惊悚 / 冒险,美国 / 意大利 / 法国,7.6,10308.0
+440,Dave,1993,Comedy|Romance,https://movie.douban.com/subject/1292871/,喜剧 / 爱情,美国,7.5,3444.0
+441,Dazed and Confused,1993,Comedy,https://movie.douban.com/subject/1294720/,剧情 / 喜剧,美国,7.2,5852.0
+442,Demolition Man,1993,Action|Sci-Fi,https://movie.douban.com/subject/1297650/,动作 / 科幻 / 犯罪,美国,6.8,7188.0
+454,"Firm, The",1993,Drama|Thriller,https://movie.douban.com/subject/1294537/,剧情 / 惊悚,美国,7.3,6170.0
+457,"Fugitive, The",1993,Action|Thriller,https://movie.douban.com/subject/36111497/,纪录片,美国,7.3,434.0
+474,In the Line of Fire,1993,Action|Thriller,https://movie.douban.com/subject/1295733/,剧情 / 动作 / 惊悚,美国,7.3,7731.0
+480,Jurassic Park,1993,Action|Adventure|Sci-Fi,https://movie.douban.com/subject/1292523/,科幻 / 惊悚 / 冒险,美国,8.3,352063.0
+497,Much Ado About Nothing,1993,Comedy|Romance,https://movie.douban.com/subject/1296091/,剧情 / 喜剧 / 爱情,英国 / 美国,7.4,3193.0
+500,Mrs. Doubtfire,1993,Comedy,https://movie.douban.com/subject/1295006/,剧情 / 喜剧 / 家庭,美国,7.9,17760.0
+509,"Piano, The",1993,Drama|Romance,https://movie.douban.com/subject/2340858/,动画,日本,6.8,108.0
+527,Schindler's List,1993,Drama|War,https://movie.douban.com/subject/1295124/,剧情 / 历史 / 战争,美国,9.5,1231723.0
+529,Searching for Bobby Fischer,1993,Drama,https://movie.douban.com/subject/1298591/,剧情 / 喜剧,美国,8.2,6981.0
+539,Sleepless in Seattle,1993,Comedy|Romance,https://movie.douban.com/subject/1298128/,剧情 / 喜剧 / 爱情,美国,7.9,240191.0
+541,Blade Runner,1982,Film-Noir|Sci-Fi,https://movie.douban.com/subject/1291839/,科幻 / 惊悚,美国,8.6,301520.0
+543,So I Married an Axe Murderer,1993,Comedy|Romance|Thriller,https://movie.douban.com/subject/1293496/,喜剧 / 爱情 / 惊悚 / 犯罪,美国,6.0,554.0
+551,"Nightmare Before Christmas, The",1993,Children's|Comedy|Musical,https://movie.douban.com/subject/1297131/,动画 / 音乐 / 奇幻,美国,8.2,119990.0
+555,True Romance,1993,Action|Crime|Romance,https://movie.douban.com/subject/1295324/,爱情 / 惊悚 / 犯罪,美国 / 法国,8.0,16121.0
+586,Home Alone,1990,Children's|Comedy,https://movie.douban.com/subject/1293088/,喜剧 / 家庭 / 犯罪,美国,8.5,465958.0
+587,Ghost,1990,Comedy|Romance|Thriller,https://movie.douban.com/subject/1293203/,剧情 / 爱情 / 奇幻,美国,8.3,223219.0
+588,Aladdin,1992,Animation|Children's|Comedy|Musical,https://movie.douban.com/subject/26891256/,爱情 / 歌舞 / 奇幻 / 冒险,美国,7.4,322722.0
+589,Terminator 2: Judgment Day,1991,Action|Sci-Fi|Thriller,https://movie.douban.com/subject/1291844/,动作 / 科幻,美国 / 法国,8.8,380989.0
+590,Dances with Wolves,1990,Adventure|Drama|Western,https://movie.douban.com/subject/1293764/,剧情 / 西部 / 冒险,美国 / 英国,8.9,88980.0
+592,Batman,1989,Action|Adventure|Crime|Drama,https://movie.douban.com/subject/1297970/,动作 / 冒险,美国 / 英国,7.5,65589.0
+593,"Silence of the Lambs, The",1991,Drama|Thriller,https://movie.douban.com/subject/10463772/,纪录片,美国,8.6,651.0
+594,Snow White and the Seven Dwarfs,1937,Animation|Children's|Musical,https://movie.douban.com/subject/1297756/,爱情 / 动画 / 歌舞 / 奇幻,美国,8.4,139835.0
+595,Beauty and the Beast,1991,Animation|Children's|Musical,https://movie.douban.com/subject/25900945/,爱情 / 歌舞 / 奇幻,美国,7.1,427839.0
+597,Pretty Woman,1990,Comedy|Romance,https://movie.douban.com/subject/1293825/,喜剧 / 爱情,美国,7.9,150009.0
+608,Fargo,1996,Crime|Drama|Thriller,https://movie.douban.com/subject/1292067/,剧情 / 惊悚 / 犯罪,美国 / 英国,8.0,115027.0
+610,Heavy Metal,1981,Action|Adventure|Animation|Horror|Sci-Fi,https://movie.douban.com/subject/1298377/,动画 / 奇幻 / 冒险,加拿大,7.6,2505.0
+648,Mission: Impossible,1996,Action|Adventure|Mystery,https://movie.douban.com/subject/1292484/,动作 / 惊悚 / 冒险,美国,8.3,307691.0
+653,Dragonheart,1996,Action|Adventure|Fantasy,https://movie.douban.com/subject/1293417/,剧情 / 动作 / 奇幻 / 冒险,美国,6.9,3655.0
+708,"Truth About Cats & Dogs, The",1996,Comedy|Romance,https://movie.douban.com/subject/1301609/,喜剧 / 爱情,美国,7.0,247.0
+745,"Close Shave, A",1995,Animation|Comedy|Thriller,https://movie.douban.com/subject/5103361/,动画 / 短片,美国,,
+750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1963,Sci-Fi|War,https://movie.douban.com/subject/1322848/,剧情 / 喜剧 / 战争,美国 / 英国,8.9,117155.0
+778,Trainspotting,1996,Drama,https://movie.douban.com/subject/1292528/,剧情 / 犯罪,英国,8.6,434907.0
+780,Independence Day (ID4),1996,Action|Sci-Fi|War,https://movie.douban.com/subject/1293013/,动作 / 科幻 / 冒险 / 灾难,美国,8.1,313990.0
+785,Kingpin,1996,Comedy,https://movie.douban.com/subject/1422998/,喜剧 / 运动,美国,7.0,643.0
+788,"Nutty Professor, The",1996,Comedy|Fantasy|Romance|Sci-Fi,https://movie.douban.com/subject/1301787/,喜剧 / 科幻,美国,6.0,2008.0
+800,Lone Star,1996,Drama|Mystery,https://movie.douban.com/subject/1296167/,剧情 / 爱情 / 悬疑 / 西部,美国,7.3,1048.0
+852,Tin Cup,1996,Comedy|Romance,https://movie.douban.com/subject/1296690/,剧情 / 喜剧 / 爱情 / 运动,美国,7.2,879.0
+858,"Godfather, The",1972,Action|Crime|Drama,https://movie.douban.com/subject/5181046/,,巴基斯坦,,
+899,Singin' in the Rain,1952,Musical|Romance,https://movie.douban.com/subject/1293460/,喜剧 / 爱情 / 歌舞,美国,9.1,264336.0
+902,Breakfast at Tiffany's,1961,Drama|Romance,https://movie.douban.com/subject/1325958/,剧情 / 喜剧 / 爱情,美国,8.1,252586.0
+903,Vertigo,1958,Mystery|Thriller,https://movie.douban.com/subject/1297294/,爱情 / 悬疑 / 惊悚,美国,8.7,160489.0
+904,Rear Window,1954,Mystery|Thriller,https://movie.douban.com/subject/1299080/,悬疑 / 惊悚,美国,8.7,231350.0
+908,North by Northwest,1959,Drama|Thriller,https://movie.douban.com/subject/1295872/,悬疑 / 惊悚 / 冒险,美国,8.3,123825.0
+910,Some Like It Hot,1959,Comedy|Crime,https://movie.douban.com/subject/1292574/,喜剧,美国,8.9,81017.0
+912,Casablanca,1942,Drama|Romance|War,https://movie.douban.com/subject/1296753/,剧情 / 爱情 / 战争,美国,8.7,240517.0
+913,"Maltese Falcon, The",1941,Film-Noir|Mystery,https://movie.douban.com/subject/30288244/,剧情 / 悬疑 / 犯罪,意大利,,
+914,My Fair Lady,1964,Musical|Romance,https://movie.douban.com/subject/1297965/,剧情 / 爱情 / 歌舞,美国,8.2,118893.0
+919,"Wizard of Oz, The",1939,Adventure|Children's|Drama|Musical,https://movie.douban.com/subject/4072497/,,美国,,
+920,Gone with the Wind,1939,Drama|Romance|War,https://movie.douban.com/subject/1300267/,剧情 / 爱情 / 历史 / 战争,美国,9.3,781033.0
+923,Citizen Kane,1941,Drama,https://movie.douban.com/subject/1292288/,剧情 / 悬疑,美国,8.8,131597.0
+924,2001: A Space Odyssey,1968,Drama|Mystery|Sci-Fi|Thriller,https://movie.douban.com/subject/1292226/,科幻 / 惊悚 / 冒险,英国 / 美国,8.9,388968.0
+953,It's a Wonderful Life,1946,Drama,https://movie.douban.com/subject/1293749/,剧情 / 爱情 / 奇幻,美国,9.2,115715.0
+968,Night of the Living Dead,1968,Horror|Sci-Fi,https://movie.douban.com/subject/1297996/,悬疑 / 恐怖,美国,7.4,11333.0
+969,"African Queen, The",1951,Action|Adventure|Romance|War,https://movie.douban.com/subject/1418997/,剧情 / 爱情 / 战争 / 冒险,英国 / 美国,7.6,4363.0
+1028,Mary Poppins,1964,Children's|Comedy|Musical,https://movie.douban.com/subject/1292658/,喜剧 / 歌舞 / 奇幻,美国,8.2,12655.0
+1035,"Sound of Music, The",1965,Musical,https://movie.douban.com/subject/2268861/,,澳大利亚,,
+1036,Die Hard,1988,Action|Thriller,https://movie.douban.com/subject/1292697/,动作 / 惊悚 / 犯罪,美国,8.2,91579.0
+1037,"Lawnmower Man, The",1992,Action|Sci-Fi|Thriller,https://movie.douban.com/subject/1301288/,动作 / 科幻 / 恐怖,英国 / 美国 / 日本,6.9,1256.0
+1060,Swingers,1996,Comedy|Drama,https://movie.douban.com/subject/2359372/,剧情 / 爱情,荷兰,5.2,218.0
+1073,Willy Wonka and the Chocolate Factory,1971,Adventure|Children's|Comedy|Fantasy,https://movie.douban.com/subject/27046372/,喜剧 / 动画 / 冒险,美国,6.4,2243.0
+1077,Sleeper,1973,Comedy|Sci-Fi,https://movie.douban.com/subject/1295086/,剧情 / 惊悚 / 犯罪,美国,7.8,12488.0
+1079,"Fish Called Wanda, A",1988,Comedy,https://movie.douban.com/subject/1292440/,喜剧 / 犯罪,美国 / 英国,7.6,28236.0
+1080,Monty Python's Life of Brian,1979,Comedy,https://movie.douban.com/subject/1292881/,喜剧,英国,8.0,12635.0
+1084,Bonnie and Clyde,1967,Crime|Drama,https://movie.douban.com/subject/1294584/,动作 / 传记 / 犯罪,美国,8.2,55329.0
+1088,Dirty Dancing,1987,Musical|Romance,https://movie.douban.com/subject/1293293/,剧情 / 爱情,美国,7.8,7934.0
+1089,Reservoir Dogs,1992,Crime|Thriller,https://movie.douban.com/subject/1299603/,惊悚 / 犯罪,美国,8.4,247954.0
+1090,Platoon,1986,Drama|War,https://movie.douban.com/subject/1293396/,剧情 / 动作 / 战争,美国 / 英国,8.2,49668.0
+1092,Basic Instinct,1992,Mystery|Thriller,https://movie.douban.com/subject/1291869/,剧情 / 悬疑 / 惊悚,美国 / 法国,7.9,175357.0
+1093,"Doors, The",1991,Drama|Musical,https://movie.douban.com/subject/5098181/,纪录片 / 音乐,英国,,
+1094,"Crying Game, The",1992,Drama|Romance|War,https://movie.douban.com/subject/1298370/,剧情 / 惊悚 / 同性,英国 / 日本,7.7,5937.0
+1097,E.T. the Extra-Terrestrial,1982,Children's|Drama|Fantasy|Sci-Fi,https://movie.douban.com/subject/1294638/,剧情 / 科幻,美国,8.6,351584.0
+1101,Top Gun,1986,Action|Romance,https://movie.douban.com/subject/1293799/,剧情 / 动作,美国,7.6,120734.0
+1127,"Abyss, The",1989,Action|Adventure|Sci-Fi|Thriller,https://movie.douban.com/subject/30475135/,剧情 / 动画 / 冒险,日本,9.0,26524.0
+1129,Escape from New York,1981,Action|Adventure|Sci-Fi|Thriller,https://movie.douban.com/subject/1295827/,动作 / 科幻 / 冒险,英国 / 美国,6.5,4551.0
+1136,Monty Python and the Holy Grail,1974,Comedy,https://movie.douban.com/subject/1294917/,喜剧 / 奇幻 / 冒险,英国,7.9,23687.0
+1148,"Wrong Trousers, The",1993,Animation|Comedy,https://movie.douban.com/subject/1293834/,喜剧 / 动画 / 短片,英国,8.9,16843.0
+1172,Cinema Paradiso,1988,Comedy|Drama|Romance,https://movie.douban.com/subject/1291828/,剧情 / 爱情,意大利 / 法国,9.2,733132.0
+1179,"Grifters, The",1990,Crime|Drama|Film-Noir,https://movie.douban.com/subject/1296168/,剧情 / 惊悚 / 犯罪,美国,6.4,1443.0
+1183,"English Patient, The",1996,Drama|Romance|War,https://movie.douban.com/subject/1291853/,剧情 / 爱情 / 战争,美国 / 英国,8.5,292801.0
+1188,Strictly Ballroom,1992,Comedy|Romance,https://movie.douban.com/subject/1306252/,剧情 / 喜剧 / 爱情,澳大利亚,7.3,1254.0
+1193,One Flew Over the Cuckoo's Nest,1975,Drama,https://movie.douban.com/subject/1292224/,剧情,美国,9.1,597059.0
+1196,Star Wars: Episode V - The Empire Strikes Back,1980,Action|Adventure|Drama|Sci-Fi|War,https://movie.douban.com/subject/1296528/,动作 / 科幻 / 冒险,美国,8.4,117324.0
+1197,"Princess Bride, The",1987,Action|Adventure|Comedy|Romance,https://movie.douban.com/subject/35238448/,喜剧 / 短片 / 奇幻,美国,,
+1198,Raiders of the Lost Ark,1981,Action|Adventure,https://movie.douban.com/subject/1296717/,动作 / 冒险,美国,7.9,113422.0
+1199,Brazil,1985,Sci-Fi,https://movie.douban.com/subject/1293823/,剧情 / 科幻,英国 / 美国,8.1,21479.0
+1200,Aliens,1986,Action|Sci-Fi|Thriller|War,https://movie.douban.com/subject/1300868/,科幻 / 惊悚 / 恐怖,英国 / 美国,8.3,314577.0
+1201,"Good, The Bad and The Ugly, The",1966,Action|Western,https://movie.douban.com/subject/1401118/,西部 / 冒险,意大利 / 西班牙 / 西德,9.3,140284.0
+1203,12 Angry Men,1957,Drama,https://movie.douban.com/subject/1293182/,剧情,美国,9.4,567997.0
+1204,Lawrence of Arabia,1962,Adventure|War,https://movie.douban.com/subject/1292349/,剧情 / 传记 / 冒险,英国,8.7,61210.0
+1206,"Clockwork Orange, A",1971,Sci-Fi,https://movie.douban.com/subject/1292233/,剧情 / 科幻 / 犯罪,英国 / 美国,8.6,408269.0
+1207,To Kill a Mockingbird,1962,Drama,https://movie.douban.com/subject/1297991/,剧情 / 犯罪,美国,8.6,67222.0
+1208,Apocalypse Now,1979,Drama|War,https://movie.douban.com/subject/1292260/,剧情 / 战争,美国,8.5,127043.0
+1210,Star Wars: Episode VI - Return of the Jedi,1983,Action|Adventure|Romance|Sci-Fi|War,https://movie.douban.com/subject/1297151/,动作 / 科幻 / 奇幻 / 冒险,美国,8.4,106770.0
+1213,GoodFellas,1990,Crime|Drama,https://movie.douban.com/subject/1292268/,剧情 / 传记 / 犯罪,美国,8.5,137739.0
+1214,Alien,1979,Action|Horror|Sci-Fi|Thriller,https://movie.douban.com/subject/1300868/,科幻 / 惊悚 / 恐怖,英国 / 美国,8.3,314577.0
+1215,Army of Darkness,1993,Action|Adventure|Comedy|Horror|Sci-Fi,https://movie.douban.com/subject/1299111/,喜剧 / 恐怖 / 奇幻,美国,7.0,9773.0
+1219,Psycho,1960,Horror|Thriller,https://movie.douban.com/subject/1293181/,悬疑 / 惊悚 / 恐怖,美国,9.0,350626.0
+1220,"Blues Brothers, The",1980,Action|Comedy|Musical,https://movie.douban.com/subject/35752760/,剧情 / 动画 / 音乐,美国,,
+1221,"Godfather: Part II, The",1974,Action|Crime|Drama,https://movie.douban.com/subject/1299131/,剧情 / 犯罪,美国,9.3,628738.0
+1222,Full Metal Jacket,1987,Action|Drama|War,https://movie.douban.com/subject/1300055/,剧情 / 战争,英国 / 美国,8.6,152357.0
+1225,Amadeus,1984,Drama,https://movie.douban.com/subject/1293399/,剧情 / 音乐 / 传记,美国 / 法国,8.7,102019.0
+1228,Raging Bull,1980,Drama,https://movie.douban.com/subject/1293155/,剧情 / 传记 / 运动,美国,8.4,64952.0
+1230,Annie Hall,1977,Comedy|Romance,https://movie.douban.com/subject/1296987/,剧情 / 喜剧 / 爱情,美国,8.6,133652.0
+1231,"Right Stuff, The",1983,Drama,https://movie.douban.com/subject/1293371/,剧情 / 历史 / 冒险,美国,7.8,2486.0
+1233,"Boat, The (Das Boot)",1981,Action|Drama|War,https://movie.douban.com/subject/1293909/,剧情 / 历史 / 战争 / 冒险,西德,9.1,50393.0
+1234,"Sting, The",1973,Comedy|Crime,https://movie.douban.com/subject/26263225/,音乐,英国,,
+1235,Harold and Maude,1971,Comedy,https://movie.douban.com/subject/1292812/,剧情 / 喜剧,美国,8.2,8726.0
+1240,"Terminator, The",1984,Action|Sci-Fi|Thriller,https://movie.douban.com/subject/35068482/,剧情 / 动作 / 科幻 / 悬疑 / 战争 / 奇幻,美国,,
+1242,Glory,1989,Action|Drama|War,https://movie.douban.com/subject/1293714/,剧情 / 传记 / 历史 / 战争,美国,8.1,12356.0
+1244,Manhattan,1979,Comedy|Drama|Romance,https://movie.douban.com/subject/1294300/,剧情 / 喜剧 / 爱情,美国,8.3,46133.0
+1246,Dead Poets Society,1989,Drama,https://movie.douban.com/subject/1291548/,剧情,美国,9.2,862732.0
+1247,"Graduate, The",1967,Drama|Romance,https://movie.douban.com/subject/1292271/,剧情 / 喜剧 / 爱情,美国,8.0,200289.0
+1249,Nikita (La Femme Nikita),1990,Thriller,https://movie.douban.com/subject/1296553/,动作 / 惊悚 / 犯罪,法国 / 意大利,7.4,19819.0
+1250,"Bridge on the River Kwai, The",1957,Drama|War,https://movie.douban.com/subject/1294958/,剧情 / 历史 / 战争,英国 / 美国,8.4,29991.0
+1252,Chinatown,1974,Film-Noir|Mystery|Thriller,https://movie.douban.com/subject/1293889/,剧情 / 悬疑 / 惊悚 / 犯罪,美国,8.4,72862.0
+1258,"Shining, The",1980,Horror,https://movie.douban.com/subject/33968555/,,美国,,
+1259,Stand by Me,1986,Adventure|Comedy|Drama,https://movie.douban.com/subject/1292925/,剧情 / 儿童 / 冒险,美国,8.9,123287.0
+1262,"Great Escape, The",1963,Adventure|War,https://movie.douban.com/subject/30255089/,真人秀,韩国,9.5,37211.0
+1263,"Deer Hunter, The",1978,Drama|War,https://movie.douban.com/subject/1292403/,剧情 / 战争,美国,8.3,44318.0
+1265,Groundhog Day,1993,Comedy|Romance,https://movie.douban.com/subject/1300613/,剧情 / 喜剧 / 爱情 / 奇幻,美国,8.6,249605.0
+1266,Unforgiven,1992,Western,https://movie.douban.com/subject/1293566/,剧情 / 西部,美国,8.5,85532.0
+1267,"Manchurian Candidate, The",1962,Film-Noir|Thriller,https://movie.douban.com/subject/1309118/,剧情 / 悬疑 / 惊悚,美国,6.8,5851.0
+1269,Arsenic and Old Lace,1944,Comedy|Mystery|Thriller,https://movie.douban.com/subject/1299412/,喜剧 / 爱情 / 惊悚 / 犯罪,美国,7.4,2508.0
+1270,Back to the Future,1985,Comedy|Sci-Fi,https://movie.douban.com/subject/1300555/,喜剧 / 科幻 / 冒险,美国,8.8,245731.0
+1272,Patton,1970,Drama|War,https://movie.douban.com/subject/1298308/,剧情 / 传记 / 战争,美国,8.1,38711.0
+1275,Highlander,1986,Action|Adventure,https://movie.douban.com/subject/1300682/,动作 / 奇幻 / 冒险,英国 / 美国,6.2,766.0
+1276,Cool Hand Luke,1967,Comedy|Drama,https://movie.douban.com/subject/1293698/,剧情 / 犯罪,美国,8.0,7792.0
+1278,Young Frankenstein,1974,Comedy|Horror,https://movie.douban.com/subject/1293782/,喜剧 / 科幻,美国,7.4,2464.0
+1282,Fantasia,1940,Animation|Children's|Musical,https://movie.douban.com/subject/1310179/,动画 / 音乐 / 奇幻,美国,8.9,19102.0
+1285,Heathers,1989,Comedy,https://movie.douban.com/subject/1293821/,喜剧 / 犯罪,美国,8.0,8870.0
+1287,Ben-Hur,1959,Action|Adventure|Drama,https://movie.douban.com/subject/1293150/,剧情 / 动作 / 历史 / 战争 / 冒险,美国,8.7,40418.0
+1288,This Is Spinal Tap,1984,Comedy|Drama|Musical,https://movie.douban.com/subject/1293095/,喜剧 / 音乐,美国,7.4,3889.0
+1291,Indiana Jones and the Last Crusade,1989,Action|Adventure,https://movie.douban.com/subject/1293471/,剧情 / 动作 / 奇幻 / 冒险,美国,8.3,82420.0
+1293,Gandhi,1982,Drama,https://movie.douban.com/subject/1292238/,剧情 / 传记 / 历史,英国 / 印度 / 美国,8.5,39970.0
+1294,M*A*S*H,1970,Comedy|War,https://movie.douban.com/subject/1292766/,剧情 / 喜剧 / 战争,美国,7.8,11696.0
+1299,"Killing Fields, The",1984,Drama|War,https://movie.douban.com/subject/27617337/,纪录片,美国,,
+1302,Field of Dreams,1989,Drama,https://movie.douban.com/subject/1294070/,剧情 / 家庭 / 奇幻 / 运动,美国,7.6,3126.0
+1304,Butch Cassidy and the Sundance Kid,1969,Action|Comedy|Western,https://movie.douban.com/subject/1297602/,剧情 / 犯罪 / 西部 / 冒险,美国,8.6,24469.0
+1307,When Harry Met Sally...,1989,Comedy|Romance,https://movie.douban.com/subject/1291842/,剧情 / 喜剧 / 爱情,美国,8.3,159237.0
+1320,Alien³,1992,Action|Horror|Sci-Fi|Thriller,https://movie.douban.com/subject/1297929/,动作 / 科幻 / 恐怖,美国,7.2,134345.0
+1333,"Birds, The",1963,Horror,https://movie.douban.com/subject/5157443/,剧情,中国台湾,,
+1339,Bram Stoker's Dracula,1992,Horror|Romance,https://movie.douban.com/subject/1293124/,爱情 / 恐怖 / 奇幻,英国 / 美国,7.7,176637.0
+1343,Cape Fear,1991,Thriller,https://movie.douban.com/subject/1299107/,惊悚 / 犯罪,美国,7.4,17069.0
+1356,Star Trek: First Contact,1996,Action|Adventure|Sci-Fi,https://movie.douban.com/subject/1299888/,动作 / 科幻 / 惊悚 / 冒险,美国,7.8,8794.0
+1358,Sling Blade,1996,Drama|Thriller,https://movie.douban.com/subject/1294589/,剧情,美国,8.0,9979.0
+1370,Die Hard 2,1990,Action|Thriller,https://movie.douban.com/subject/1300537/,动作 / 惊悚 / 犯罪,美国,7.8,54874.0
+1371,Star Trek: The Motion Picture,1979,Action|Adventure|Sci-Fi,https://movie.douban.com/subject/1300089/,科幻 / 悬疑 / 奇幻 / 冒险,美国,7.8,18125.0
+1372,Star Trek VI: The Undiscovered Country,1991,Action|Adventure|Sci-Fi,https://movie.douban.com/subject/1305970/,动作 / 科幻 / 悬疑 / 惊悚,美国,7.7,8548.0
+1373,Star Trek V: The Final Frontier,1989,Action|Adventure|Sci-Fi,https://movie.douban.com/subject/1302570/,动作 / 科幻 / 惊悚 / 冒险,美国,6.9,7973.0
+1374,Star Trek: The Wrath of Khan,1982,Action|Adventure|Sci-Fi,https://movie.douban.com/subject/1293316/,动作 / 科幻 / 惊悚 / 冒险,美国,7.7,14625.0
+1375,Star Trek III: The Search for Spock,1984,Action|Adventure|Sci-Fi,https://movie.douban.com/subject/1294015/,动作 / 科幻 / 惊悚 / 冒险,美国,7.3,9871.0
+1376,Star Trek IV: The Voyage Home,1986,Action|Adventure|Sci-Fi,https://movie.douban.com/subject/1293325/,喜剧 / 科幻 / 冒险,美国,8.2,11948.0
+1377,Batman Returns,1992,Action|Adventure|Comedy|Crime,https://movie.douban.com/subject/1294929/,动作 / 犯罪 / 奇幻,美国 / 英国,7.4,50320.0
+1380,Grease,1978,Comedy|Musical|Romance,https://movie.douban.com/subject/1300993/,爱情 / 歌舞,美国,7.3,7613.0
+1387,Jaws,1975,Action|Horror,https://movie.douban.com/subject/1294941/,剧情 / 惊悚 / 冒险,美国,7.8,115383.0
+1391,Mars Attacks!,1996,Action|Comedy|Sci-Fi|War,https://movie.douban.com/subject/1297715/,喜剧 / 科幻,美国 / 日本 / 英国,7.3,51957.0
+1393,Jerry Maguire,1996,Drama|Romance,https://movie.douban.com/subject/1293158/,剧情 / 喜剧 / 爱情 / 运动,美国,7.5,45664.0
+1394,Raising Arizona,1987,Comedy,https://movie.douban.com/subject/1293276/,喜剧 / 犯罪,美国,7.4,12510.0
+1396,Sneakers,1992,Crime|Drama|Sci-Fi,https://movie.douban.com/subject/1296544/,喜剧 / 悬疑 / 惊悚 / 犯罪 / 冒险,美国,6.4,1181.0
+1407,Scream,1996,Horror|Thriller,https://movie.douban.com/subject/1301630/,惊悚 / 恐怖,美国,7.2,63832.0
+1408,"Last of the Mohicans, The",1992,Action|Romance|War,https://movie.douban.com/subject/5053034/,剧情 / 历史 / 战争,美国,,
+1466,Donnie Brasco,1997,Crime|Drama,https://movie.douban.com/subject/1293731/,剧情 / 传记 / 犯罪,美国,8.2,55086.0
+1485,Liar Liar,1997,Comedy,https://movie.douban.com/subject/1295318/,喜剧 / 奇幻,美国,7.8,89645.0
+1500,Grosse Pointe Blank,1997,Comedy|Crime,https://movie.douban.com/subject/1300097/,喜剧 / 动作 / 爱情 / 惊悚 / 犯罪,美国,6.7,884.0
+1513,Romy and Michele's High School Reunion,1997,Comedy,https://movie.douban.com/subject/1296639/,喜剧,美国,6.6,1696.0
+1517,Austin Powers: International Man of Mystery,1997,Comedy,https://movie.douban.com/subject/1292493/,喜剧 / 动作 / 犯罪 / 冒险,美国 / 德国,6.2,8555.0
+1527,"Fifth Element, The",1997,Action|Sci-Fi,https://movie.douban.com/subject/37890427/,动画,美国,,
+1544,"Lost World: Jurassic Park, The",1997,Action|Adventure|Sci-Fi|Thriller,https://movie.douban.com/subject/1293702/,动作 / 科幻 / 惊悚 / 冒险,美国,7.6,170882.0
+1552,Con Air,1997,Action|Adventure|Thriller,https://movie.douban.com/subject/1300618/,剧情 / 动作 / 惊悚 / 犯罪,美国,8.2,194608.0
+1562,Batman & Robin,1997,Action|Adventure|Crime,https://movie.douban.com/subject/1294519/,动作 / 科幻,美国 / 英国,6.1,39038.0
+1569,My Best Friend's Wedding,1997,Comedy|Romance,https://movie.douban.com/subject/1295965/,喜剧 / 爱情,美国,7.3,94968.0
+1573,Face/Off,1997,Action|Sci-Fi|Thriller,https://movie.douban.com/subject/1292659/,动作 / 科幻 / 惊悚 / 犯罪,美国,8.5,404593.0
+1580,Men in Black,1997,Action|Adventure|Comedy|Sci-Fi,https://movie.douban.com/subject/1301445/,喜剧 / 动作 / 科幻,美国,8.3,365365.0
+1584,Contact,1997,Drama|Sci-Fi,https://movie.douban.com/subject/1295647/,剧情 / 科幻 / 悬疑 / 惊悚,美国,8.4,128994.0
+1597,Conspiracy Theory,1997,Action|Mystery|Romance|Thriller,https://movie.douban.com/subject/1293067/,动作 / 悬疑 / 惊悚,美国,6.7,2644.0
+1608,Air Force One,1997,Action|Thriller,https://movie.douban.com/subject/1293537/,剧情 / 动作 / 惊悚,美国 / 德国,7.5,76535.0
+1610,"Hunt for Red October, The",1990,Action|Thriller,https://movie.douban.com/subject/1293830/,动作 / 惊悚 / 冒险,美国,7.7,19730.0
+1617,L.A. Confidential,1997,Crime|Film-Noir|Mystery|Thriller,https://movie.douban.com/subject/1292348/,剧情 / 悬疑 / 惊悚 / 犯罪,美国,8.9,192060.0
+1625,"Game, The",1997,Mystery|Thriller,https://movie.douban.com/subject/25722131/,惊悚,日本,6.2,6063.0
+1639,Chasing Amy,1997,Drama|Romance,https://movie.douban.com/subject/1294058/,剧情 / 喜剧 / 爱情,美国,7.2,3501.0
+1641,"Full Monty, The",1997,Comedy,https://movie.douban.com/subject/1292541/,剧情 / 喜剧,英国 / 美国,7.7,25562.0
+1645,"Devil's Advocate, The",1997,Crime|Horror|Mystery|Thriller,https://movie.douban.com/subject/36132269/,纪录片,英国,,
+1653,Gattaca,1997,Drama|Sci-Fi|Thriller,https://movie.douban.com/subject/1300117/,剧情 / 科幻 / 惊悚,美国,8.8,345447.0
+1663,Stripes,1981,Comedy,https://movie.douban.com/subject/1293091/,喜剧 / 战争,美国,6.5,1437.0
+1673,Boogie Nights,1997,Drama,https://movie.douban.com/subject/1292965/,剧情 / 情色,美国,7.6,29643.0
+1674,Witness,1985,Drama|Romance|Thriller,https://movie.douban.com/subject/1293229/,剧情 / 爱情 / 惊悚,美国,7.1,6114.0
+1676,Starship Troopers,1997,Action|Adventure|Sci-Fi|War,https://movie.douban.com/subject/1295384/,动作 / 科幻 / 惊悚 / 冒险,美国,8.0,116413.0
+1682,"Truman Show, The",1998,Drama,https://movie.douban.com/subject/1292064/,剧情 / 科幻,美国,9.4,1981512.0
+1690,Alien: Resurrection,1997,Action|Horror|Sci-Fi,https://movie.douban.com/subject/1299153/,动作 / 科幻 / 恐怖,美国,7.7,128240.0
+1704,Good Will Hunting,1997,Drama,https://movie.douban.com/subject/1292656/,剧情,美国,9.0,805052.0
+1711,Midnight in the Garden of Good and Evil,1997,Comedy|Crime|Drama|Mystery,https://movie.douban.com/subject/1297513/,剧情 / 悬疑 / 惊悚 / 同性 / 犯罪,美国,7.0,2051.0
+1721,Titanic,1997,Drama|Romance,https://movie.douban.com/subject/1292722/,剧情 / 爱情 / 灾难,美国 / 墨西哥,9.5,2458537.0
+1722,Tomorrow Never Dies,1997,Action|Romance|Thriller,https://movie.douban.com/subject/1299247/,动作 / 惊悚 / 冒险,英国 / 美国,7.4,44963.0
+1729,Jackie Brown,1997,Crime|Drama,https://movie.douban.com/subject/1292335/,剧情 / 惊悚 / 犯罪,美国,7.4,42808.0
+1732,"Big Lebowski, The",1998,Comedy|Crime|Mystery|Thriller,https://movie.douban.com/subject/1300044/,喜剧 / 犯罪,美国 / 英国,7.7,69711.0
+1747,Wag the Dog,1997,Comedy|Drama,https://movie.douban.com/subject/1293985/,剧情 / 喜剧,美国,8.1,11648.0
+1748,Dark City,1998,Film-Noir|Sci-Fi|Thriller,https://movie.douban.com/subject/1292332/,科幻 / 悬疑 / 惊悚,澳大利亚,7.9,70606.0
+1777,"Wedding Singer, The",1998,Comedy|Romance,https://movie.douban.com/subject/1293865/,喜剧 / 爱情 / 音乐,美国,7.2,5630.0
+1784,As Good As It Gets,1997,Comedy|Drama,https://movie.douban.com/subject/1293917/,剧情 / 喜剧 / 爱情,美国,8.2,38273.0
+1805,Wild Things,1998,Crime|Drama|Mystery|Thriller,https://movie.douban.com/subject/1292552/,悬疑 / 惊悚 / 犯罪,美国,7.0,17965.0
+1831,Lost in Space,1998,Action|Sci-Fi|Thriller,https://movie.douban.com/subject/1298339/,动作 / 科幻 / 惊悚 / 冒险,美国,6.8,4221.0
+1876,Deep Impact,1998,Action|Drama|Sci-Fi|Thriller,https://movie.douban.com/subject/1293131/,科幻 / 灾难,美国,7.2,47620.0
+1883,Bulworth,1998,Comedy,https://movie.douban.com/subject/1299666/,剧情 / 喜剧 / 爱情,美国,7.2,478.0
+1885,"Opposite of Sex, The",1998,Comedy|Drama,https://movie.douban.com/subject/1294399/,喜剧 / 同性,美国,6.0,232.0
+1909,"X-Files: Fight the Future, The",1998,Mystery|Sci-Fi|Thriller,https://movie.douban.com/subject/1293330/,科幻 / 悬疑 / 惊悚 / 恐怖 / 犯罪,加拿大 / 美国,6.9,8796.0
+1912,Out of Sight,1998,Action|Crime|Romance,https://movie.douban.com/subject/1293554/,剧情 / 喜剧 / 爱情 / 惊悚 / 犯罪,美国,6.4,5763.0
+1917,Armageddon,1998,Action|Adventure|Sci-Fi|Thriller,https://movie.douban.com/subject/1292769/,科幻 / 灾难,美国,7.8,89264.0
+1918,Lethal Weapon 4,1998,Action|Comedy|Crime|Drama,https://movie.douban.com/subject/1294616/,动作 / 惊悚 / 犯罪,美国,6.5,6808.0
+1921,Pi,1998,Sci-Fi|Thriller,https://movie.douban.com/subject/1295783/,剧情 / 科幻 / 惊悚,美国,7.4,11608.0
+1923,There's Something About Mary,1998,Comedy,https://movie.douban.com/subject/1294165/,喜剧 / 爱情,美国,6.9,22648.0
+1947,West Side Story,1961,Musical|Romance,https://movie.douban.com/subject/1295225/,剧情 / 爱情 / 歌舞 / 犯罪,美国,7.5,13044.0
+1952,Midnight Cowboy,1969,Drama,https://movie.douban.com/subject/1297628/,剧情,美国,8.3,23989.0
+1953,"French Connection, The",1971,Action|Crime|Drama|Thriller,https://movie.douban.com/subject/3013046/,动作 / 惊悚 / 犯罪,美国,7.8,15150.0
+1954,Rocky,1976,Action|Drama,https://movie.douban.com/subject/1295742/,剧情 / 爱情 / 运动,美国,8.8,77096.0
+1957,Chariots of Fire,1981,Drama,https://movie.douban.com/subject/1300487/,剧情 / 历史 / 运动,英国,7.7,12450.0
+1959,Out of Africa,1985,Drama|Romance,https://movie.douban.com/subject/1291840/,剧情 / 爱情 / 传记 / 冒险,美国,8.7,105542.0
+1960,"Last Emperor, The",1987,Drama|War,https://movie.douban.com/subject/1293172/,剧情 / 传记 / 历史,英国 / 意大利 / 中国大陆 / 法国,9.3,1012501.0
+1961,Rain Man,1988,Drama,https://movie.douban.com/subject/1291870/,剧情,美国,8.7,440130.0
+1962,Driving Miss Daisy,1989,Drama,https://movie.douban.com/subject/1293204/,剧情 / 喜剧,美国,8.3,52227.0
+1965,Repo Man,1984,Comedy|Sci-Fi,https://movie.douban.com/subject/1304697/,喜剧 / 动作 / 科幻,美国,7.0,2704.0
+1968,"Breakfast Club, The",1985,Comedy|Drama,https://movie.douban.com/subject/1295728/,剧情 / 喜剧,美国,7.9,33911.0
+1994,Poltergeist,1982,Horror|Thriller,https://movie.douban.com/subject/1293042/,恐怖 / 奇幻,美国,6.8,3159.0
+1997,"Exorcist, The",1973,Horror,https://movie.douban.com/subject/6869414/,动画,日本,8.0,5975.0
+2000,Lethal Weapon,1987,Action|Comedy|Crime|Drama,https://movie.douban.com/subject/1295635/,动作 / 惊悚 / 犯罪,美国,7.0,6793.0
+2001,Lethal Weapon 2,1989,Action|Comedy|Crime|Drama,https://movie.douban.com/subject/26981426/,剧情 / 动作 / 犯罪,美国,8.3,821.0
+2002,Lethal Weapon 3,1992,Action|Comedy|Crime|Drama,https://movie.douban.com/subject/30221885/,剧情 / 动作 / 犯罪,美国,6.7,412.0
+2003,Gremlins,1984,Comedy|Horror,https://movie.douban.com/subject/1296186/,喜剧 / 恐怖 / 奇幻,美国,7.1,3881.0
+2005,"Goonies, The",1985,Adventure|Children's|Fantasy,https://movie.douban.com/subject/1298273/,喜剧 / 家庭 / 冒险,美国,7.5,4927.0
+2006,"Mask of Zorro, The",1998,Action|Adventure|Romance,https://movie.douban.com/subject/1293225/,动作 / 爱情 / 西部 / 冒险,美国 / 墨西哥 / 德国,7.6,30032.0
+2011,Back to the Future Part II,1989,Comedy|Sci-Fi,https://movie.douban.com/subject/1299092/,喜剧 / 科幻 / 冒险,美国,8.5,130740.0
+2012,Back to the Future Part III,1990,Comedy|Sci-Fi|Western,https://movie.douban.com/subject/1296666/,喜剧 / 科幻 / 西部 / 冒险,美国,8.6,113832.0
+2013,"Poseidon Adventure, The",1972,Action|Adventure,https://movie.douban.com/subject/1473795/,动作 / 冒险 / 灾难,美国,6.9,45056.0
+2019,Seven Samurai (The Magnificent Seven) (Shichinin no samurai),1954,Action|Drama,https://movie.douban.com/subject/1295399/,剧情 / 动作 / 冒险,日本,9.3,231982.0
+2020,Dangerous Liaisons,1988,Drama|Romance,https://movie.douban.com/subject/1295713/,剧情 / 爱情,美国 / 英国,7.6,12471.0
+2021,Dune,1984,Fantasy|Sci-Fi,https://movie.douban.com/subject/3001114/,剧情 / 科幻 / 冒险,美国,7.7,762962.0
+2023,"Godfather: Part III, The",1990,Action|Crime|Drama,https://movie.douban.com/subject/1294240/,剧情 / 犯罪,美国,9.0,426507.0
+2028,Saving Private Ryan,1998,Action|Drama|War,https://movie.douban.com/subject/1292849/,剧情 / 战争,美国,9.1,716304.0
+2054,"Honey, I Shrunk the Kids",1989,Adventure|Children's|Comedy|Fantasy|Sci-Fi,https://movie.douban.com/subject/1302355/,喜剧 / 科幻 / 家庭 / 冒险,美国,7.6,23803.0
+2058,"Negotiator, The",1998,Action|Thriller,https://movie.douban.com/subject/3882457/,剧情 / 动作,日本,6.2,1520.0
+2064,Roger & Me,1989,Comedy|Documentary,https://movie.douban.com/subject/1302069/,纪录片 / 历史,美国,7.9,1005.0
+2076,Blue Velvet,1986,Drama|Mystery,https://movie.douban.com/subject/27058856/,纪录片,英国 / 德国,6.8,136.0
+2078,"Jungle Book, The",1967,Animation|Children's|Comedy|Musical,https://movie.douban.com/subject/27137129/,动画,印度,,
+2080,Lady and the Tramp,1955,Animation|Children's|Comedy|Musical|Romance,https://movie.douban.com/subject/1300075/,喜剧 / 爱情 / 动画 / 冒险,美国,8.6,33726.0
+2081,"Little Mermaid, The",1989,Animation|Children's|Comedy|Musical|Romance,https://movie.douban.com/subject/35849794/,动画 / 冒险,中国大陆,,
+2094,"Rocketeer, The",1991,Action|Adventure|Sci-Fi,https://movie.douban.com/subject/35201540/,,英国,8.9,126.0
+2100,Splash,1984,Comedy|Fantasy|Romance,https://movie.douban.com/subject/1292906/,喜剧 / 爱情 / 奇幻,美国,7.4,14481.0
+2105,Tron,1982,Action|Adventure|Fantasy|Sci-Fi,https://movie.douban.com/subject/1293482/,动作 / 科幻 / 冒险,美国,7.4,9379.0
+2108,L.A. Story,1991,Comedy|Romance,https://movie.douban.com/subject/1298925/,剧情 / 喜剧 / 爱情 / 奇幻,美国,7.1,162.0
+2115,Indiana Jones and the Temple of Doom,1984,Action|Adventure,https://movie.douban.com/subject/1301434/,动作 / 冒险,美国,7.8,70017.0
+2124,"Addams Family, The",1991,Comedy,https://movie.douban.com/subject/1293718/,喜剧 / 家庭 / 奇幻,美国,8.5,110807.0
+2140,"Dark Crystal, The",1982,Children's|Fantasy|Sci-Fi,https://movie.douban.com/subject/25713420/,动作 / 爱情 / 奇幻,中国大陆 / 中国香港 / 美国,4.4,86824.0
+2144,Sixteen Candles,1984,Comedy,https://movie.douban.com/subject/1300813/,喜剧 / 爱情,美国,6.7,2307.0
+2145,Pretty in Pink,1986,Comedy|Drama|Romance,https://movie.douban.com/subject/1297376/,剧情 / 喜剧 / 爱情,美国,7.2,2370.0
+2150,"Gods Must Be Crazy, The",1980,Comedy,https://movie.douban.com/subject/1297478/,喜剧,南非 / 博茨瓦纳,8.7,146890.0
+2160,Rosemary's Baby,1968,Horror|Thriller,https://movie.douban.com/subject/1293852/,剧情 / 恐怖,美国,8.2,86229.0
+2161,"NeverEnding Story, The",1984,Adventure|Children's|Fantasy,https://movie.douban.com/subject/1306740/,家庭 / 奇幻 / 冒险,美国 / 德国,6.6,159.0
+2167,Blade,1998,Action|Adventure|Horror,https://movie.douban.com/subject/1298120/,动作 / 科幻 / 恐怖,美国,7.1,72943.0
+2174,Beetlejuice,1988,Comedy|Fantasy,https://movie.douban.com/subject/1293639/,喜剧 / 奇幻,美国,7.6,23510.0
+2193,Willow,1988,Action|Adventure|Fantasy,https://movie.douban.com/subject/35138458/,剧情 / 动作 / 爱情 / 奇幻 / 冒险,美国,6.4,692.0
+2194,"Untouchables, The",1987,Action|Crime|Drama,https://movie.douban.com/subject/30391769/,纪录片 / 传记,英国,7.1,222.0
+2243,Broadcast News,1987,Comedy|Drama|Romance,https://movie.douban.com/subject/1292511/,剧情 / 喜剧 / 爱情,美国,7.0,996.0
+2248,Say Anything...,1989,Comedy|Drama|Romance,https://movie.douban.com/subject/1300529/,剧情 / 喜剧 / 爱情,美国,7.4,4200.0
+2268,"Few Good Men, A",1992,Crime|Drama,https://movie.douban.com/subject/1295260/,剧情 / 惊悚,美国,8.0,17023.0
+2273,Rush Hour,1998,Action|Thriller,https://movie.douban.com/subject/1292624/,喜剧 / 动作 / 惊悚 / 犯罪,美国,7.4,128703.0
+2278,Ronin,1998,Action|Crime|Thriller,https://movie.douban.com/subject/1295527/,动作 / 惊悚 / 犯罪,英国 / 法国 / 美国,7.6,21742.0
+2288,"Thing, The",1982,Action|Horror|Sci-Fi|Thriller,https://movie.douban.com/subject/4089696/,科幻 / 动画,美国,,
+2289,"Player, The",1992,Comedy|Drama,https://movie.douban.com/subject/36442466/,喜剧,加拿大,,
+2291,Edward Scissorhands,1990,Drama|Romance,https://movie.douban.com/subject/1292370/,剧情 / 爱情 / 奇幻,美国,8.7,1112689.0
+2294,Antz,1998,Animation|Children's,https://movie.douban.com/subject/1293816/,喜剧 / 动画 / 冒险,美国,7.0,7240.0
+2300,"Producers, The",1968,Comedy|Musical,https://movie.douban.com/subject/1479817/,喜剧 / 歌舞,美国,7.2,4481.0
+2302,My Cousin Vinny,1992,Comedy,https://movie.douban.com/subject/1298884/,喜剧 / 犯罪,美国,7.9,4731.0
+2321,Pleasantville,1998,Comedy,https://movie.douban.com/subject/1293871/,剧情 / 喜剧 / 奇幻,美国,8.3,9217.0
+2324,Life Is Beautiful (La Vita è bella),1997,Comedy|Drama,https://movie.douban.com/subject/1292063/,剧情 / 喜剧 / 爱情 / 战争,意大利,9.5,1461735.0
+2329,American History X,1998,Drama,https://movie.douban.com/subject/1293527/,剧情 / 犯罪,美国,8.4,107368.0
+2336,Elizabeth,1998,Drama,https://movie.douban.com/subject/1296223/,剧情 / 爱情 / 传记 / 历史,英国,7.7,41351.0
+2352,"Big Chill, The",1983,Comedy|Drama,https://movie.douban.com/subject/1293796/,剧情 / 喜剧,美国,6.8,997.0
+2353,Enemy of the State,1998,Action|Thriller,https://movie.douban.com/subject/1297544/,剧情 / 动作 / 惊悚,美国,8.2,125090.0
+2355,"Bug's Life, A",1998,Animation|Children's|Comedy,https://movie.douban.com/subject/1291573/,喜剧 / 动画 / 冒险,美国,8.0,107530.0
+2359,Waking Ned Devine,1998,Comedy,https://movie.douban.com/subject/1296208/,喜剧,英国 / 爱尔兰 / 法国 / 美国,7.9,608.0
+2366,King Kong,1933,Action|Adventure|Horror,https://movie.douban.com/subject/1309043/,动作 / 奇幻 / 冒险,新西兰 / 美国 / 德国,8.0,332190.0
+2369,Desperately Seeking Susan,1985,Comedy|Romance,https://movie.douban.com/subject/1292823/,剧情 / 喜剧 / 爱情,美国,7.2,800.0
+2371,Fletch,1985,Comedy,https://movie.douban.com/subject/1292756/,喜剧 / 悬疑 / 犯罪,美国,7.0,156.0
+2391,"Simple Plan, A",1998,Crime|Thriller,https://movie.douban.com/subject/5220403/,纪录片,加拿大 Canada,,
+2393,Star Trek: Insurrection,1998,Action|Sci-Fi,https://movie.douban.com/subject/1295383/,动作 / 科幻 / 惊悚 / 冒险,美国,7.3,7022.0
+2395,Rushmore,1998,Comedy,https://movie.douban.com/subject/1296835/,剧情 / 喜剧,美国,8.1,26831.0
+2396,Shakespeare in Love,1998,Comedy|Romance,https://movie.douban.com/subject/1300220/,剧情 / 喜剧 / 爱情,英国 / 美国,7.3,84947.0
+2405,"Jewel of the Nile, The",1985,Action|Adventure|Comedy|Romance,https://movie.douban.com/subject/1293915/,喜剧 / 动作 / 爱情 / 冒险,美国,6.2,572.0
+2406,Romancing the Stone,1984,Action|Adventure|Comedy|Romance,https://movie.douban.com/subject/1299463/,喜剧 / 动作 / 爱情 / 冒险,美国 / 墨西哥,6.8,1172.0
+2407,Cocoon,1985,Comedy|Sci-Fi,https://movie.douban.com/subject/1303283/,喜剧 / 爱情 / 科幻 / 冒险,美国,6.8,2452.0
+2424,You've Got Mail,1998,Comedy|Romance,https://movie.douban.com/subject/1293555/,喜剧 / 爱情,美国,7.8,109329.0
+2427,"Thin Red Line, The",1998,Action|Drama|War,https://movie.douban.com/subject/11624679/,短片,Ireland,,
+2455,"Fly, The",1986,Horror|Sci-Fi,https://movie.douban.com/subject/1293073/,科幻 / 恐怖,美国 / 德国,7.4,49019.0
+2470,Crocodile Dundee,1986,Adventure|Comedy,https://movie.douban.com/subject/1304488/,喜剧 / 动作 / 冒险,澳大利亚,7.2,3014.0
+2490,Payback,1999,Action|Thriller,https://movie.douban.com/subject/1298667/,剧情 / 动作 / 犯罪,美国,7.2,7008.0
+2502,Office Space,1999,Comedy|Romance,https://movie.douban.com/subject/1296424/,喜剧,美国,6.8,6448.0
+2527,Westworld,1973,Action|Sci-Fi|Thriller|Western,https://movie.douban.com/subject/1297907/,科幻 / 惊悚 / 西部,美国,7.2,11197.0
+2528,Logan's Run,1976,Action|Adventure|Sci-Fi,https://movie.douban.com/subject/1292729/,剧情 / 爱情 / 科幻 / 冒险,美国,6.9,2120.0
+2529,Planet of the Apes,1968,Action|Sci-Fi,https://movie.douban.com/subject/1296697/,科幻 / 悬疑 / 冒险,美国,8.3,42413.0
+2539,Analyze This,1999,Comedy,https://movie.douban.com/subject/1297012/,喜剧 / 犯罪,美国 / 澳大利亚,7.4,9930.0
+2542,"Lock, Stock & Two Smoking Barrels",1998,Comedy|Crime|Thriller,https://movie.douban.com/subject/1293350/,剧情 / 喜剧 / 犯罪,英国,9.1,667443.0
+2571,"Matrix, The",1999,Action|Sci-Fi|Thriller,https://movie.douban.com/subject/1291843/,动作 / 科幻,美国,9.1,936028.0
+2572,10 Things I Hate About You,1999,Comedy|Romance,https://movie.douban.com/subject/1296359/,剧情 / 喜剧 / 爱情,美国,7.9,60777.0
+2580,Go,1999,Crime,https://movie.douban.com/subject/1307176/,剧情,日本,8.1,17325.0
+2581,Never Been Kissed,1999,Comedy|Romance,https://movie.douban.com/subject/1293896/,剧情 / 喜剧 / 爱情,美国,6.5,6639.0
+2599,Election,1999,Comedy,https://movie.douban.com/subject/1296829/,喜剧,美国,7.6,7479.0
+2605,Entrapment,1999,Crime|Thriller,https://movie.douban.com/subject/1300069/,动作 / 爱情 / 惊悚 / 犯罪,美国 / 英国 / 德国,7.8,110862.0
+2616,Dick Tracy,1990,Action|Crime,https://movie.douban.com/subject/1295643/,动作 / 爱情 / 惊悚 / 犯罪,美国,6.8,1879.0
+2617,"Mummy, The",1999,Action|Adventure|Horror|Thriller,https://movie.douban.com/subject/5228665/,动作 / 惊悚 / 恐怖 / 短片 / 冒险,美国,,
+2628,Star Wars: Episode I - The Phantom Menace,1999,Action|Adventure|Fantasy|Sci-Fi,https://movie.douban.com/subject/1294362/,动作 / 科幻 / 冒险,美国,8.2,136646.0
+2640,Superman,1978,Action|Adventure|Sci-Fi,https://movie.douban.com/subject/36188176/,动作 / 科幻 / 奇幻 / 冒险,美国,6.3,100829.0
+2641,Superman II,1980,Action|Adventure|Sci-Fi,https://movie.douban.com/subject/35382940/,剧情 / 动作 / 爱情 / 科幻 / 冒险,美国,7.7,1743.0
+2657,"Rocky Horror Picture Show, The",1975,Comedy|Horror|Musical|Sci-Fi,https://movie.douban.com/subject/1292050/,喜剧 / 歌舞,英国 / 美国,8.1,28767.0
+2664,Invasion of the Body Snatchers,1956,Horror|Sci-Fi,https://movie.douban.com/subject/1296030/,科幻 / 惊悚 / 恐怖,美国,7.8,5554.0
+2671,Notting Hill,1999,Comedy|Romance,https://movie.douban.com/subject/1298038/,喜剧 / 爱情,英国 / 美国,8.0,408361.0
+2683,Austin Powers: The Spy Who Shagged Me,1999,Comedy,https://movie.douban.com/subject/1292930/,喜剧 / 动作 / 犯罪 / 冒险,美国,6.3,5976.0
+2688,"General's Daughter, The",1999,Drama|Thriller,https://movie.douban.com/subject/3123890/,剧情,韩国,,
+2692,Run Lola Run (Lola rennt),1998,Action|Crime|Romance,https://movie.douban.com/subject/1292275/,动作 / 惊悚 / 犯罪,德国,8.1,266854.0
+2694,Big Daddy,1999,Comedy,https://movie.douban.com/subject/1295283/,剧情 / 喜剧 / 家庭,美国,7.3,14502.0
+2699,Arachnophobia,1990,Action|Comedy|Sci-Fi|Thriller,https://movie.douban.com/subject/1292813/,喜剧 / 科幻 / 惊悚 / 恐怖,美国,7.2,2157.0
+2701,Wild Wild West,1999,Action|Sci-Fi|Western,https://movie.douban.com/subject/1293364/,喜剧 / 动作 / 科幻 / 西部,美国,6.8,15089.0
+2706,American Pie,1999,Comedy,https://movie.douban.com/subject/1295253/,喜剧 / 爱情,美国,7.4,94144.0
+2707,Arlington Road,1999,Thriller,https://movie.douban.com/subject/1297145/,悬疑 / 惊悚,美国,7.6,21106.0
+2710,"Blair Witch Project, The",1999,Horror,https://movie.douban.com/subject/1295831/,悬疑 / 恐怖,美国,6.4,26864.0
+2712,Eyes Wide Shut,1999,Drama,https://movie.douban.com/subject/1300275/,剧情 / 悬疑 / 惊悚 / 情色,英国 / 美国,8.1,196794.0
+2716,Ghostbusters,1984,Comedy|Horror,https://movie.douban.com/subject/1293760/,喜剧 / 科幻 / 奇幻,美国,6.7,18504.0
+2723,Mystery Men,1999,Action|Adventure|Comedy,https://movie.douban.com/subject/1297417/,喜剧 / 动作 / 奇幻,美国,6.3,381.0
+2724,Runaway Bride,1999,Comedy|Romance,https://movie.douban.com/subject/1299922/,喜剧 / 爱情,美国,6.8,26196.0
+2746,Little Shop of Horrors,1986,Comedy|Horror|Musical,https://movie.douban.com/subject/1294749/,喜剧 / 爱情 / 恐怖 / 歌舞,美国,7.5,2396.0
+2761,"Iron Giant, The",1999,Animation|Children's,https://movie.douban.com/subject/1293863/,喜剧 / 动作 / 科幻 / 动画 / 冒险,美国,8.6,32411.0
+2762,"Sixth Sense, The",1999,Thriller,https://movie.douban.com/subject/1297630/,剧情 / 悬疑 / 惊悚,美国,8.9,629046.0
+2763,"Thomas Crown Affair, The",1999,Action|Thriller,https://movie.douban.com/subject/1298244/,爱情 / 惊悚 / 犯罪,美国,7.1,9060.0
+2770,Bowfinger,1999,Comedy,https://movie.douban.com/subject/1292820/,喜剧,美国,7.5,1637.0
+2791,Airplane!,1980,Comedy,https://movie.douban.com/subject/1292785/,喜剧,美国,7.5,21739.0
+2797,Big,1988,Comedy|Fantasy,https://movie.douban.com/subject/36159741/,剧情,中国台湾,7.8,9264.0
+2804,"Christmas Story, A",1983,Comedy|Drama,https://movie.douban.com/subject/1299003/,喜剧 / 家庭,美国 / 加拿大,7.7,2189.0
+2826,"13th Warrior, The",1999,Action|Horror|Thriller,https://movie.douban.com/subject/1294888/,动作 / 奇幻 / 冒险,美国,6.8,2283.0
+2858,American Beauty,1999,Comedy|Drama,https://movie.douban.com/subject/1292062/,剧情 / 爱情 / 家庭,美国,8.6,357333.0
+2871,Deliverance,1972,Adventure|Thriller,https://movie.douban.com/subject/1293561/,剧情 / 惊悚 / 冒险,美国,7.5,2569.0
+2872,Excalibur,1981,Action|Drama|Fantasy|Romance,https://movie.douban.com/subject/1297548/,剧情 / 奇幻 / 冒险,英国 / 美国,7.0,952.0
+2881,Double Jeopardy,1999,Action|Thriller,https://movie.douban.com/subject/1292676/,剧情 / 悬疑 / 惊悚 / 犯罪,美国 / 德国 / 加拿大,7.2,10001.0
+2890,Three Kings,1999,Drama|War,https://movie.douban.com/subject/1294202/,喜剧 / 动作 / 冒险,美国,7.0,8246.0
+2908,Boys Don't Cry,1999,Drama,https://movie.douban.com/subject/1300528/,剧情 / 同性 / 传记 / 犯罪,美国,8.2,46272.0
+2915,Risky Business,1983,Comedy,https://movie.douban.com/subject/1295037/,剧情 / 喜剧,美国,6.9,2650.0
+2916,Total Recall,1990,Action|Adventure|Sci-Fi|Thriller,https://movie.douban.com/subject/1295870/,动作 / 科幻 / 惊悚 / 冒险,美国,7.8,42501.0
+2918,Ferris Bueller's Day Off,1986,Comedy,https://movie.douban.com/subject/1295437/,喜剧,美国,8.0,60570.0
+2944,"Dirty Dozen, The",1967,Action|War,https://movie.douban.com/subject/1950392/,动作 / 战争,美国,6.9,289.0
+2947,Goldfinger,1964,Action,https://movie.douban.com/subject/1293828/,动作 / 惊悚 / 冒险,英国 / 美国,7.1,18897.0
+2948,From Russia with Love,1963,Action,https://movie.douban.com/subject/1293446/,动作 / 惊悚 / 冒险,英国 / 美国,7.2,15939.0
+2949,Dr. No,1962,Action,https://movie.douban.com/subject/1293072/,动作 / 惊悚 / 冒险,英国 / 美国,7.0,18104.0
+2959,Fight Club,1999,Drama,https://movie.douban.com/subject/1292000/,剧情 / 动作 / 悬疑 / 惊悚,美国,9.0,957933.0
+2968,Time Bandits,1981,Adventure|Fantasy|Sci-Fi,https://movie.douban.com/subject/1292948/,喜剧 / 科幻 / 奇幻 / 冒险,英国,6.8,1980.0
+2985,Robocop,1987,Action|Crime|Sci-Fi,https://movie.douban.com/subject/1294791/,剧情 / 动作 / 科幻 / 惊悚 / 犯罪,美国,7.8,50617.0
+2987,Who Framed Roger Rabbit?,1988,Adventure|Animation|Film-Noir,https://movie.douban.com/subject/1297317/,喜剧 / 动画 / 冒险,美国,7.8,24579.0
+2997,Being John Malkovich,1999,Comedy,https://movie.douban.com/subject/1292279/,剧情 / 喜剧 / 爱情 / 奇幻,美国,8.3,75224.0
+3005,"Bone Collector, The",1999,Thriller,https://movie.douban.com/subject/1294621/,剧情 / 悬疑 / 犯罪,美国 / 加拿大,7.4,67526.0
+3006,"Insider, The",1999,Drama,https://movie.douban.com/subject/5265494/,,美国,,
+3033,Spaceballs,1987,Comedy|Sci-Fi,https://movie.douban.com/subject/1296158/,喜剧 / 科幻 / 冒险,美国,6.8,1443.0
+3039,Trading Places,1983,Comedy,https://movie.douban.com/subject/1301553/,喜剧,美国,7.6,6991.0
+3052,Dogma,1999,Comedy,https://movie.douban.com/subject/1292640/,喜剧 / 奇幻 / 冒险,美国,7.2,9042.0
+3070,"Adventures of Buckaroo Bonzai Across the 8th Dimension, The",1984,Adventure|Comedy|Sci-Fi,https://movie.douban.com/subject/1301795/,喜剧 / 爱情 / 科幻 / 冒险,美国,6.2,847.0
+3072,Moonstruck,1987,Comedy,https://movie.douban.com/subject/1292869/,剧情 / 喜剧 / 爱情,美国,7.5,9978.0
+3081,Sleepy Hollow,1999,Horror|Romance,https://movie.douban.com/subject/1296078/,悬疑 / 恐怖 / 奇幻,美国 / 德国 / 英国,7.6,128533.0
+3082,"World Is Not Enough, The",1999,Action|Thriller,https://movie.douban.com/subject/1293174/,动作 / 惊悚 / 冒险,英国 / 美国,7.6,56690.0
+3100,"River Runs Through It, A",1992,Drama,https://movie.douban.com/subject/1292718/,剧情 / 家庭,美国,8.5,84272.0
+3101,Fatal Attraction,1987,Thriller,https://movie.douban.com/subject/1294587/,剧情 / 惊悚,美国,7.0,8134.0
+3104,Midnight Run,1988,Action|Adventure|Comedy|Crime,https://movie.douban.com/subject/1294699/,喜剧 / 动作 / 犯罪 / 冒险,美国,8.6,46777.0
+3105,Awakenings,1990,Drama,https://movie.douban.com/subject/1296805/,剧情 / 传记,美国,8.4,19466.0
+3107,Backdraft,1991,Action|Drama,https://movie.douban.com/subject/1293921/,动作 / 犯罪,美国,7.4,2919.0
+3108,"Fisher King, The",1991,Comedy|Drama|Romance,https://movie.douban.com/subject/1292909/,剧情 / 喜剧 / 奇幻,美国,7.5,2232.0
+3114,Toy Story 2,1999,Animation|Children's|Comedy,https://movie.douban.com/subject/1291574/,喜剧 / 动画 / 奇幻 / 冒险,美国,8.5,285251.0
+3147,"Green Mile, The",1999,Drama|Thriller,https://movie.douban.com/subject/5120438/,纪录片 / 短片,美国,,
+3148,"Cider House Rules, The",1999,Drama,https://movie.douban.com/subject/10539086/,纪录片 / 短片,美国,,
+3160,Magnolia,1999,Drama,https://movie.douban.com/subject/1293564/,剧情,美国,8.1,38004.0
+3174,Man on the Moon,1999,Comedy|Drama,https://movie.douban.com/subject/1300185/,剧情 / 喜剧 / 传记,英国 / 德国 / 日本 / 美国,7.8,18101.0
+3175,Galaxy Quest,1999,Adventure|Comedy|Sci-Fi,https://movie.douban.com/subject/1293656/,喜剧 / 动作 / 科幻 / 冒险,美国,7.8,10129.0
+3176,"Talented Mr. Ripley, The",1999,Drama|Mystery|Thriller,https://movie.douban.com/subject/26415434/,剧情 / 惊悚 / 犯罪,美国,8.7,36600.0
+3210,Fast Times at Ridgemont High,1982,Comedy,https://movie.douban.com/subject/1294982/,剧情 / 喜剧 / 爱情,美国,6.8,4077.0
+3247,Sister Act,1992,Comedy|Crime,https://movie.douban.com/subject/1301509/,喜剧 / 音乐 / 犯罪,美国,8.2,128428.0
+3253,Wayne's World,1992,Comedy,https://movie.douban.com/subject/1306283/,喜剧 / 音乐,美国,6.2,933.0
+3255,"League of Their Own, A",1992,Comedy|Drama,https://movie.douban.com/subject/34908008/,剧情 / 喜剧 / 爱情 / 运动,美国,9.1,5721.0
+3256,Patriot Games,1992,Action|Thriller,https://movie.douban.com/subject/1294559/,剧情 / 动作 / 惊悚 / 犯罪,美国,6.7,6446.0
+3257,"Bodyguard, The",1992,Action|Drama|Romance|Thriller,https://movie.douban.com/subject/27083551/,剧情,中国大陆,,
+3263,White Men Can't Jump,1992,Comedy,https://movie.douban.com/subject/1304629/,剧情 / 喜剧 / 运动,美国,7.6,1993.0
+3301,"Whole Nine Yards, The",2000,Comedy|Crime,https://movie.douban.com/subject/1297723/,喜剧 / 犯罪,美国,7.0,6388.0
+3354,Mission to Mars,2000,Sci-Fi,https://movie.douban.com/subject/1303447/,剧情 / 科幻 / 惊悚 / 冒险,美国,7.6,33301.0
+3361,Bull Durham,1988,Comedy,https://movie.douban.com/subject/1299747/,喜剧 / 爱情 / 运动,美国,6.8,1195.0
+3362,Dog Day Afternoon,1975,Comedy|Crime|Drama,https://movie.douban.com/subject/1293374/,剧情 / 喜剧 / 犯罪,美国,8.7,117417.0
+3363,American Graffiti,1973,Comedy|Drama,https://movie.douban.com/subject/1300106/,剧情 / 喜剧 / 爱情,美国,7.6,6072.0
+3386,JFK,1991,Drama|Mystery,https://movie.douban.com/subject/1292230/,剧情 / 悬疑 / 惊悚 / 传记 / 历史,美国 / 法国,8.8,45648.0
+3396,"Muppet Movie, The",1979,Children's|Comedy,https://movie.douban.com/subject/3014200/,喜剧 / 家庭,美国,6.8,5502.0
+3408,Erin Brockovich,2000,Drama,https://movie.douban.com/subject/1293050/,剧情 / 传记,美国,8.5,112112.0
+3418,Thelma & Louise,1991,Action|Drama,https://movie.douban.com/subject/1291992/,剧情 / 惊悚 / 犯罪,美国 / 英国 / 法国,9.0,338255.0
+3421,Animal House,1978,Comedy,https://movie.douban.com/subject/1296269/,喜剧 / 爱情,美国,6.7,998.0
+3424,Do the Right Thing,1989,Comedy|Drama,https://movie.douban.com/subject/1293958/,剧情 / 喜剧,美国,8.2,17950.0
+3448,"Good Morning, Vietnam",1987,Comedy|Drama|War,https://movie.douban.com/subject/1292738/,剧情 / 喜剧 / 战争,美国,7.9,10119.0
+3450,Grumpy Old Men,1993,Comedy,https://movie.douban.com/subject/1296537/,剧情 / 喜剧,美国,7.4,724.0
+3471,Close Encounters of the Third Kind,1977,Drama|Sci-Fi,https://movie.douban.com/subject/1298405/,剧情 / 科幻,美国,7.2,23254.0
+3476,Jacob's Ladder,1990,Horror|Mystery|Thriller,https://movie.douban.com/subject/1295809/,剧情 / 悬疑 / 惊悚,美国,7.6,7474.0
+3481,High Fidelity,2000,Comedy,https://movie.douban.com/subject/1299786/,剧情 / 喜剧 / 爱情 / 音乐,英国 / 美国,7.2,7951.0
+3489,Hook,1991,Adventure|Fantasy,https://movie.douban.com/subject/1298692/,家庭 / 奇幻 / 冒险,美国,6.8,5731.0
+3499,Misery,1990,Horror,https://movie.douban.com/subject/1292850/,剧情 / 惊悚 / 犯罪,美国,8.5,101477.0
+3504,Network,1976,Comedy|Drama,https://movie.douban.com/subject/1297531/,剧情,美国,8.3,14513.0
+3510,Frequency,2000,Drama|Thriller,https://movie.douban.com/subject/1294183/,科幻 / 悬疑 / 犯罪,美国,8.4,140595.0
+3526,Parenthood,1989,Comedy|Drama,https://movie.douban.com/subject/37195464/,纪录片,英国,,
+3527,Predator,1987,Action|Sci-Fi|Thriller,https://movie.douban.com/subject/36707378/,动作 / 科幻 / 惊悚 / 冒险,美国 / 澳大利亚 / 新西兰 / 加拿大 / 德国,7.4,59312.0
+3535,American Psycho,2000,Comedy|Horror|Thriller,https://movie.douban.com/subject/1301715/,剧情 / 恐怖 / 犯罪,美国 / 加拿大,8.0,141656.0
+3543,Diner,1982,Comedy|Drama,https://movie.douban.com/subject/1292866/,剧情 / 喜剧,美国,7.6,437.0
+3552,Caddyshack,1980,Comedy,https://movie.douban.com/subject/1293541/,喜剧 / 运动,美国,6.5,510.0
+3555,U-571,2000,Action|Thriller,https://movie.douban.com/subject/1293770/,剧情 / 动作 / 战争,法国 / 美国,8.1,61214.0
+3578,Gladiator,2000,Action|Drama,https://movie.douban.com/subject/1293530/,剧情 / 动作 / 冒险,美国 / 英国 / 马耳他 / 摩洛哥,8.6,257491.0
+3591,Mr. Mom,1983,Comedy|Drama,https://movie.douban.com/subject/1295818/,剧情 / 喜剧,美国,7.1,169.0
+3608,Pee-wee's Big Adventure,1985,Comedy,https://movie.douban.com/subject/1292901/,喜剧 / 家庭 / 冒险,美国,6.8,1014.0
+3623,Mission: Impossible 2,2000,Action|Thriller,https://movie.douban.com/subject/3387973/,动作 / 犯罪 / 冒险,美国,,
+3624,Shanghai Noon,2000,Action,https://movie.douban.com/subject/1297866/,喜剧 / 动作 / 西部 / 冒险,美国 / 中国香港,6.5,32924.0
+3638,Moonraker,1979,Action|Romance|Sci-Fi,https://movie.douban.com/subject/1294395/,动作 / 科幻 / 惊悚 / 冒险,英国 / 法国 / 美国,7.0,11858.0
+3671,Blazing Saddles,1974,Comedy|Western,https://movie.douban.com/subject/1293653/,喜剧 / 西部,美国,7.3,2003.0
+3683,Blood Simple,1984,Drama|Film-Noir,https://movie.douban.com/subject/1302542/,剧情 / 悬疑 / 惊悚 / 犯罪,美国,7.8,48724.0
+3697,Predator 2,1990,Action|Sci-Fi|Thriller,https://movie.douban.com/subject/27156436/,,英国,,
+3698,"Running Man, The",1987,Action|Adventure|Sci-Fi,https://movie.douban.com/subject/35251482/,动画 / 冒险,韩国,,
+3699,Starman,1984,Adventure|Drama|Romance|Sci-Fi,https://movie.douban.com/subject/1293581/,剧情 / 爱情 / 科幻 / 冒险,美国,7.1,1371.0
+3702,Mad Max,1979,Action|Sci-Fi,https://movie.douban.com/subject/3592854/,动作 / 科幻 / 冒险,澳大利亚 / 美国,8.7,612593.0
+3703,Mad Max 2 (a.k.a. The Road Warrior),1981,Action|Sci-Fi,https://movie.douban.com/subject/1292453/,动作 / 科幻 / 惊悚 / 冒险,澳大利亚,7.3,27013.0
+3704,Mad Max Beyond Thunderdome,1985,Action|Sci-Fi,https://movie.douban.com/subject/1294383/,动作 / 科幻 / 惊悚 / 冒险,澳大利亚,6.7,21337.0
+3751,Chicken Run,2000,Animation|Children's|Comedy,https://movie.douban.com/subject/1292973/,喜剧 / 动画 / 家庭,英国 / 美国 / 法国,7.7,101582.0
+3753,"Patriot, The",2000,Action|Drama|War,https://movie.douban.com/subject/35652576/,纪录片 / 短片 / 历史 / 战争,美国,,
+3755,"Perfect Storm, The",2000,Action|Adventure|Thriller,https://movie.douban.com/subject/1293815/,剧情 / 灾难,美国,7.6,40031.0
+3763,F/X,1986,Action|Crime|Thriller,https://movie.douban.com/subject/1295565/,动作 / 惊悚 / 犯罪,美国,7.2,280.0
+3785,Scary Movie,2000,Comedy|Horror,https://movie.douban.com/subject/1299981/,喜剧,美国,7.1,87349.0
+3793,X-Men,2000,Action|Sci-Fi,https://movie.douban.com/subject/1295250/,动作 / 科幻,美国 / 加拿大,7.8,300648.0
+3809,What About Bob?,1991,Comedy,https://movie.douban.com/subject/1295033/,喜剧,美国,6.8,418.0
+3863,"Cell, The",2000,Sci-Fi|Thriller,https://movie.douban.com/subject/2009350/,剧情 / 动作 / 惊悚 / 犯罪 / 冒险,加拿大 / 美国,,
+3868,"Naked Gun: From the Files of Police Squad!, The",1988,Comedy,https://movie.douban.com/subject/1302176/,喜剧 / 犯罪,美国,7.9,47202.0
+3897,Almost Famous,2000,Comedy|Drama,https://movie.douban.com/subject/1292352/,剧情 / 音乐,美国,8.0,32187.0
+3911,Best in Show,2000,Comedy,https://movie.douban.com/subject/1295836/,喜剧,美国,7.0,341.0
+3948,Meet the Parents,2000,Comedy,https://movie.douban.com/subject/1294829/,喜剧 / 爱情,美国,7.1,63699.0
